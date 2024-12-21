@@ -6,7 +6,7 @@ This texture pack supports LOW, MEDIUM AND HIGH graphic settings.
 
 -------------------------
 
-Have you ever played the game and wondered… “Wow, this texture really sucks! I don’t like the way it looks at all”? (No? Just me? Alright then, moving on…)
+Have you ever played the game and wondered… ' Wow, this texture really sucks! I don’t like the way it looks at all '? (No? Just me? Alright then, moving on…)
 
 This texture pack updates most of the game textures that I have problems with. These are ideally how I would want the textures to look like to begin with.
 
