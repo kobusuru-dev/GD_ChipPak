@@ -4,7 +4,8 @@
 [OPTIONAL] The “Happy Textures” mod by Alphalaneous is HEAVILY RECOMMENDED! Download it from the Geode mod index!
 To view updated textures from community-made mods, the mods must obviously be installed on Geode.
 
-This texture pack supports LOW, MEDIUM AND HIGH graphic settings.
+This texture pack supports MEDIUM AND HIGH graphic settings.
+LOW graphic settings are NO LONGER SUPPORTED as of version 1.10!
 
 -------------------------
 
