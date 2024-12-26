@@ -1,11 +1,10 @@
-# ChipPak! - Better Textures
+ # ChipPak! - Better Textures
 ## (Geometry Dash Texture Pack)
 
-[OPTIONAL] The “Happy Textures” mod by Alphalaneous is HEAVILY RECOMMENDED! Download it from the Geode mod index!
+The “Happy Textures” mod by Alphalaneous is **REQUIRED**! Download it from the Geode mod index!
 To view updated textures from community-made mods, the mods must obviously be installed on Geode.
 
-This texture pack supports MEDIUM AND HIGH graphic settings.
-LOW graphic settings are NO LONGER SUPPORTED as of version 1.10!
+This texture pack supports LOW, MEDIUM AND HIGH graphic settings.
 
 -------------------------
 
@@ -16,5 +15,3 @@ This texture pack updates most of the game textures that I have problems with. T
 When the “Happy Textures” mod by Alphalaneous is installed, this texture pack also adds a few new things - such as some new buttons and sound effects.
 
 This texture pack WILL BE CONSISTENTLY UPDATED with new and updated textures! Feel free to recommend textures that you feel could use an update from me!
-
-Textures from community-made mods are also modified! A complete list of all mods with modified textures can be found in-game on the title screen.
