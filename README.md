@@ -1,4 +1,4 @@
- # ChipPak! - Better Textures
+ # KobuPak! - Better Textures
 ## (Geometry Dash Texture Pack)
 
 The “Happy Textures” mod by Alphalaneous is **REQUIRED**! Download it from the Geode mod index!
